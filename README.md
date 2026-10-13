@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/AppIcon.png" alt="Lid Angle Recorder app icon" width="180">
+</p>
+
 # Lid Angle Recorder
 
 A native macOS app for measuring the MacBook display hinge angle and keeping a timestamped CSV history. Built with Objective-C, AppKit, and IOKit; no third-party runtime dependencies.
