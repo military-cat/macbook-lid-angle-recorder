@@ -1,0 +1,9 @@
+.DS_Store
+dist/
+build/
+*.app/
+*.zip
+*.dSYM/
+*.csv
+*.log
+Recordings/
