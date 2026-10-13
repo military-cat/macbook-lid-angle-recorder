@@ -6,6 +6,10 @@
 
 A native macOS app for measuring the MacBook display hinge angle and keeping a timestamped CSV history. Built with Objective-C, AppKit, and IOKit; no third-party runtime dependencies.
 
+<p align="center">
+  <img src="assets/AppScreenshot.jpg" alt="Lid Angle Recorder showing a live 99.90-degree measurement and recording history" width="900">
+</p>
+
 ## License
 
 This project is **source-available** under the project-specific [Lid Angle Recorder Use and Modification License](LICENSE).
